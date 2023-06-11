@@ -34,7 +34,6 @@ a function which prints all information for a selection
 - a function that gets all residues
 - Prints number of atoms in each residue
 - Draws each residue with different color
-- Outputs formatted as in table 
 
 6. Align molecules 
 - Implements a function that do the following functions
